@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tylerdurden0000
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on  web developing projectes
+- 🌻 love to learn new things every day
 - 📫 reach me out shankarshivam07@gmail.com
 
 <!---
