@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tylerdurden0000
+- 👋 Hi, I’m shankar shivam
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning html,css
 - 💞️ I’m looking to collaborate on  web developing projectes
